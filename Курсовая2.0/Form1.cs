@@ -390,15 +390,11 @@ namespace Курсовая2._0
             if (this.Width == minWidth)
             {
                 this.Width = maxWidth;
-
             }
             else
             {
                 this.Width = minWidth;
             }
         }
-        
-
-        
     }
 }
