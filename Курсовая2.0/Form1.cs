@@ -26,6 +26,7 @@ namespace Курсовая2._0
 
         private string logPath = Application.StartupPath + "\\log.txt";
 
+       // в данном коде присутствуют правки 
        
 
         private char[] operatorOrder = new char[]
